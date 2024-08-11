@@ -84,7 +84,7 @@ a:focus {
 }
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active {
-  background-color: #014d4e;
+  background-color: #90ee90;
   border-color: transparent;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -397,7 +397,7 @@ textarea.form-control {
 .navbar .navbar-nav > .nav-item.current-menu-ancestor > a.dropdown-toggle {
   background-color: transparent;
   outline: 0;
-  color: #014d4e;
+  color: #90ee90;
   transition: all 0.3s ease;
 }
 
@@ -408,7 +408,7 @@ textarea.form-control {
   padding: 0;
 }
 
-.navbar .navbar-nav > .nav-item > a.nav-link.current { color: #014d4e; }
+.navbar .navbar-nav > .nav-item > a.nav-link.current { color: #90ee90; }
 
 .navbar .navbar-nav > .nav-item > a.nav-link.dropdown-toggle::after {
   content: '';
@@ -568,7 +568,7 @@ textarea.form-control {
     min-width: 250px;
     display: none;
     z-index: 1;
-    background-color: darkgreen;
+    background-color: dark green;
   }
 }
 
@@ -617,7 +617,7 @@ textarea.form-control {
   align-items: flex-start;
 }
 
-.bg-darkteal-transparent { background-color: rgba(1, 77, 78, 0.5); }
+.bg-darkteal-transparent { background-color: rgba(1, 77, 78, 0.0); }
 
 .banner-section .logo-fa {  
   color: #fff;
