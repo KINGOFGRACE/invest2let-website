@@ -617,7 +617,7 @@ textarea.form-control {
   align-items: flex-start;
 }
 
-.bg-darkteal-transparent { background-color: rgba(29, 122, 79, 0.932); }
+.bg-blue-transparent { background-color: rgb(21, 73, 60, 0.9); }
 
 .banner-section .logo-fa {  
   color: #fff;
