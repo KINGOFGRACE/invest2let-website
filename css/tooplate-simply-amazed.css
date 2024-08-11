@@ -71,7 +71,7 @@ a:focus {
 /* <<< btn-primary >>> */
 .btn-primary {
   color: #fff;
-  background-color: #90ee90;
+  background-color: #014d4e;
   border-color: transparent;
 }
 
@@ -157,7 +157,7 @@ textarea.form-control {
   right: 0;
   width: 26%;
   height: 100%;
-  background-color: #90ee90;
+  background-color: #014d4e;
   overflow-y: auto;
   z-index: 1;
   display: -webkit-box;
@@ -194,7 +194,7 @@ textarea.form-control {
   text-decoration: none;
 }
 
-.design a:hover { color: #90ee90; }
+.design a:hover { color: #014d4e; }
 
 /* <<< Mobile Menu button >>> */
 .navbar-button {
@@ -397,7 +397,7 @@ textarea.form-control {
 .navbar .navbar-nav > .nav-item.current-menu-ancestor > a.dropdown-toggle {
   background-color: transparent;
   outline: 0;
-  color: #90ee90;
+  color: #014d4e;
   transition: all 0.3s ease;
 }
 
@@ -483,7 +483,7 @@ textarea.form-control {
 .navbar .navbar-nav > .nav-item ul.dropdown-menu .nav-item.current-menu-ancestor > a.dropdown-toggle {
   font-weight: 500;
   color: #fff;
-  background-color: lightblue;
+  background-color: darkteal;
 }
 
 .navbar .navbar-nav > .nav-item ul.dropdown-menu .nav-item:hover > a.dropdown-toggle::after {
@@ -617,7 +617,7 @@ textarea.form-control {
   align-items: flex-start;
 }
 
-.bg-darkteal-transparent { background-color: rgba(29, 122, 79, 0.932) }
+.bg-darkteal-transparent { background-color: rgba(29, 122, 79, 0.932); }
 
 .banner-section .logo-fa {  
   color: #fff;
